@@ -76,40 +76,7 @@ pip install numpy scipy matplotlib
 - Newton's Method for Optimization
 
 
-## Usage Examples
 
-### Root Finding Example
-```python
-import numpy as np
-from scipy.optimize import fsolve
-
-def find_root(f, x0):
-    """
-    Find root of function f starting from initial guess x0
-    """
-    return fsolve(f, x0)[0]
-
-# Example: Find root of f(x) = x^2 - 4
-f = lambda x: x**2 - 4
-root = find_root(f, 1.0)
-print(f"Root: {root}")  # Output: Root: 2.0
-```
-
-### Cylinder Volume Calculation
-```python
-def cylinder_volume(R, L):
-    """
-    Calculate volume of a cylinder
-    R: radius
-    L: length
-    """
-    return np.pi * R**2 * L
-
-# Example usage
-R, L = 1.0, 3.0
-volume = cylinder_volume(R, L)
-print(f"Cylinder Volume: {volume:.2f} cubic units")
-```
 
 ## Contributing
 
