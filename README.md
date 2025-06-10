@@ -89,9 +89,9 @@ pip install numpy scipy matplotlib
 
 ## Acknowledgments
 
-- Course Instructor: [Instructor Name]
-- Department of [Department Name]
-- [University Name]
+- Course Instructor: [Kazi Ashrafuzzaman]
+- Department of [Computer Science and Engineering]
+- [University of Chittagong]
 
 ## Contact
 
