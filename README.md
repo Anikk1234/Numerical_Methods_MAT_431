@@ -95,6 +95,4 @@ pip install numpy scipy matplotlib
 
 ## Contact
 
-Anikk1234 - [Your Email]
-
-Last Updated: 2025-05-28 19:09:55 UTC
+Anikk1234 - [anik.csecu@gmail.com]
