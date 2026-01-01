@@ -49,31 +49,24 @@ pip install numpy scipy matplotlib
 - Fixed-Point Iteration
 
 ### 2. Linear Algebra
-- Gaussian Elimination
 - LU Decomposition
 - Matrix Operations
-- Eigenvalue Problems
 
 ### 3. Interpolation
 - Linear Interpolation
 - Lagrange Polynomials
 - Cubic Splines
-- Bezier Curves
 
 ### 4. Numerical Integration
 - Trapezoidal Rule
 - Simpson's Rule
-- Gaussian Quadrature
+
 
 ### 5. Differential Equations
-- Euler's Method
-- Runge-Kutta Methods
-- Boundary Value Problems
 
 ### 6. Optimization
-- Golden Section Search
-- Gradient Descent
-- Newton's Method for Optimization
+- Simplex Method
+- LPP
 
 
 
